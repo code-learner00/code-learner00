@@ -18,3 +18,10 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
+<img src="https://streak-stats.demolab.com?user=code-learner00&theme=default&hide_border=true" alt="code-learner00's GitHub Stats" />
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=code-learner00&theme=default&show_icons=true&hide_border=true&layout=compact
+
+
+
