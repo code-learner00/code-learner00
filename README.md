@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Bhavya </h1>
+<h1>Hi 👋, I'm Bhavya Sai Sri </h1>
 <p>A MERN Stack Developer with experience in building scalable full stack and full stack + AI applications . Actively enhancing my problem-solving skills by mastering Data Structures & Algorithms . Passionate about modern web technologies. Continuously learning and experimenting with new frameworks, tools, and development workflows  .</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
