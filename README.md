@@ -21,7 +21,7 @@
 
 <img src="https://streak-stats.demolab.com?user=code-learner00&theme=default&hide_border=true" alt="code-learner00's GitHub Stats" />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=code-learner00&theme=default&show_icons=true&hide_border=true&layout=compact
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-learner00&theme=default&show_icons=true&hide_border=true&layout=compact" alt="code-learner00's GitHub Stats" />
 
 
 
